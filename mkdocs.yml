@@ -50,9 +50,9 @@ nav:
       - figma/index.md
       - Начало работы: figma/get-started.md
       - Интерфейс и навигация: figma/interface-and-nav.md
-      - Создание объектов: figma/create-and-edit.md
       - Настройка уведомлений: figma/notifications.md
-    - Описание конечной точки API:
+      - Создание объектов: figma/create-and-edit.md
+    - Описание конечной точки:
       - endpoint/index.md
 
 extra:
